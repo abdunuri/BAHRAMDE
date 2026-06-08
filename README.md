@@ -1,20 +1,24 @@
 # BAHRAMDE
 
-## Description
+BAHRAMDE is an early public repository placeholder owned by `abdunuri`.
 
-BAHRAMDE is a public project workspace for organizing and sharing the BAHRAMDE codebase as it grows. This repository currently provides the project landing page on GitHub and can be expanded with source files, setup instructions, screenshots, and deployment notes.
+At the moment the repository contains only this README and no application source code, scripts, or assets. It is best treated as a reserved project workspace until the actual implementation is added.
 
-## Status
+## Current Status
 
-This repository is at an early documentation stage.
+- Source code: not added yet
+- Runtime or framework: not defined yet
+- Setup instructions: pending future implementation
 
-## Planned Documentation
+## Recommended Next Step
 
-- Project purpose and feature list
-- Installation and local setup steps
-- Usage examples
-- Deployment notes
-- License information
+When the project code is added, update this README with:
+
+- The problem the project solves
+- The main features
+- Installation and run commands
+- Screenshots or usage examples
+- Deployment notes, if the project is hosted
 
 ## Author
 
